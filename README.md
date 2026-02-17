@@ -1,6 +1,6 @@
 ## Intro
 
-I currently work on xAI's Data Platform team, where I'm building petabyte-scale systems for X and model pretraining.
+I work on xAI's Data Platform team.
 
 I previously worked on Tesla's Cell Manufacturing team, where I led a team that builds software to enable more efficient manufacturing operations. My team's systems were reponsible for all Cell [factory reporting](https://x.com/Tesla/status/1798472011678966221) and [financial tracking](https://electrek.co/2024/04/24/tesla-expects-4680-battery-cells-cheaper-than-suppliers-end-of-year/).
 
